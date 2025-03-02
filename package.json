@@ -4,9 +4,13 @@
   "description": "High performance image processing easily by using the command line.",
   "version": "2.1.0",
   "publisher": "Redimvs",
-  "icon": "Redim_Logo.png",
+  "icon": "images/Redim_Logo.png",
   "pricing": "Free",
   "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivlopez03/redim-optimizer.git"
+  },
   "engines": {
     "vscode": "^1.97.0"
   },

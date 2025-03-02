@@ -1,7 +1,7 @@
 # Redim Optimizer
 
 <div align="center">
-    <img src="/Redim_logo.png"  >
+    <img src="images/Redim_logo.png"  >
 </div>
 
 <p style="text-align:center">
